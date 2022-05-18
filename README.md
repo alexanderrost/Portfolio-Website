@@ -1,4 +1,9 @@
-# Portfolio-Website
-Website to displays projects and code I've worked on.
+# Protfolio website
+This repo will serve to host the code for my portfolio website built with React
+I haven't used React in the past from this will be a learning excersise. Come along for the ride
 
-## You can visit the website at https://alexanderrost.github.io/Portfolio-Website/
+
+## Requirements
+-Node 
+```Check if you have it installed by running node -v```
+Otherwise install node.
